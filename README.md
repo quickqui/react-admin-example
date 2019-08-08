@@ -1,3 +1,9 @@
+
+本repository包含的是react-admin本身提供的一个例子。
+在这里复制一遍的原因在其重要性。作为第一默认前端实现，react-admin及其例子需要着重学习参考。
+
+以下内容保留自原例子。
+
 # React-admin Demo
 
 This is a demo of the [react-admin](https://github.com/marmelab/react-admin) library for React.js. It creates a working administration for a fake poster shop named Posters Galore. You can test it online at http://marmelab.com/react-admin-demo.
