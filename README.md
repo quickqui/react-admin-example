@@ -2,6 +2,12 @@
 本repository包含的是react-admin本身提供的一个例子。
 在这里复制一遍的原因在其重要性。作为第一默认前端实现，react-admin及其例子需要着重学习参考。
 
+目前看到需要重点参考的东西 - 
+
+1. 分层级的菜单。
+1. dashdash上面的iconcard - 一个图标带一个简短提示，可能再加一个link。
+1. 画廊样的列表。
+
 以下内容保留自原例子。
 
 # React-admin Demo
